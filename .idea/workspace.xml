@@ -50,7 +50,7 @@
       <recent name="D:\SARAH\WorkSpace\JobHacker-System\prepration-week" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Average2">
+  <component name="RunManager" selected="Application.DistanceBetweenTwoPoints">
     <configuration name="AreaofaCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.AreaofaCircle" />
       <module name="JobHacker-System" />
@@ -77,9 +77,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtremelyBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtremelyBasic" />
+    <configuration name="DistanceBetweenTwoPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.DistanceBetweenTwoPoints" />
       <module name="JobHacker-System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DistanceBetweenTwoPoints" />
         <item itemvalue="Application.Average2" />
         <item itemvalue="Application.AreaofaCircle" />
         <item itemvalue="Application.week1.ExtremelyBasic" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.ExtremelyBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +130,7 @@
       <updated>1680774473312</updated>
       <workItem from="1680774474473" duration="84000" />
       <workItem from="1680774681148" duration="3149000" />
-      <workItem from="1680778143583" duration="1674000" />
+      <workItem from="1680778143583" duration="2037000" />
     </task>
     <servers />
   </component>
