@@ -1,17 +1,9 @@
-package week1;
-
 import java.util.Scanner;
 
 public class DistanceBetweenTwoPoints {
   //  https://www.beecrowd.com.br/judge/en/problems/view/1015
     public static void main(String[] args)  {
 
-
-        /**
-         * Escreva a sua solução aqui
-         * Code your solution here
-         * Escriba su solución aquí
-         */
         Scanner sc = new Scanner(System.in);
 
         double x1 = sc.nextDouble();

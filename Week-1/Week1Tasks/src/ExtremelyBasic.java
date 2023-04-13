@@ -1,15 +1,9 @@
-package week1;
-
 import java.util.Scanner;
 
 public class ExtremelyBasic {
     //https://www.beecrowd.com.br/judge/en/problems/view/1001
     public static void main(String[] args) {
-        /**
-         * Escreva a sua solução aqui
-         * Code your solution here
-         * Escriba su solución aquí
-         */
+
         Scanner sc = new Scanner(System.in);
 
         // read input values

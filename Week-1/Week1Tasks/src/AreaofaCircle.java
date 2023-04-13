@@ -1,5 +1,3 @@
-package week1;
-
 import java.util.Scanner;
 
 public class AreaofaCircle {
@@ -14,11 +12,6 @@ public class AreaofaCircle {
 
         System.out.printf("A=%.4f%n", A);
 
-        /**
-         * Escreva a sua solução aqui
-         * Code your solution here
-         * Escriba su solución aquí
-         */
 
     }
 

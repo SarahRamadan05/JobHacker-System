@@ -1,5 +1,4 @@
-
-*.iml
+/Preparation-Week/PreparationWeekTasks/PreparationWeekTasks.iml
+*/.idea/
 *.class
-/.idea/
-/out/
+/.idea/*

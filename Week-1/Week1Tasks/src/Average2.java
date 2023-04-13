@@ -1,5 +1,3 @@
-package week1;
-
 import java.util.Scanner;
 
 public class Average2 {
@@ -17,11 +15,6 @@ public class Average2 {
 
         System.out.println("MEDIA = " + String.format("%.1f", media));
 
-        /**
-         * Escreva a sua solução aqui
-         * Code your solution here
-         * Escriba su solución aquí
-         */
 
     }
 
