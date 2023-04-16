@@ -1,3 +1,8 @@
+ Week-2
 /Week-2/Week2Tasks/.idea/
 /Week-2/Week2Tasks/out/
 *.iml
+/Preparation-Week/PreparationWeekTasks/PreparationWeekTasks.iml
+*/.idea/
+*.class
+/.idea/*
