@@ -1,4 +1,3 @@
-package week3tasks;
 
 import java.util.Scanner;
 
